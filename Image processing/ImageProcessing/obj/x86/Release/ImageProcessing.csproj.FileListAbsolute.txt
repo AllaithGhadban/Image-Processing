@@ -1,0 +1,8 @@
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.frmMain.resources
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.exe
+C:\Users\Kinda\Desktop\Visual Studio C#\Assignment4\ImageProcessing\obj\x86\Release\ImageProcessing.pdb
